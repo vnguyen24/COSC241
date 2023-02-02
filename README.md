@@ -14,7 +14,7 @@ Project 0:
 - What I learned: I was re-familiarized with Python
 
 
-Project 1: Search algorithms - Updating code
+Project 1: Search algorithms
 
 - Files I edited: search.py, searchAgents.py
 
